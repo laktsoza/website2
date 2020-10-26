@@ -1,0 +1,173 @@
+body {
+    padding: 25px;
+}
+main {
+    margin: 0 auto;
+    width: 1850px;
+    font-family: sans-serif;
+    background-image: url(cbwa09.jpg);
+}
+
+.black-line {
+    position: relative;
+    background-color: black;
+}
+
+.black-line p {
+    display: inline-block;
+    font-size: 11px;
+    color: white;
+    padding: 2px 12px;
+}
+
+.manu {
+    float: right;
+    opacity: 0.7;
+}
+.manu-icon {
+    position: absolute;
+    top: 13.5px;
+    right: 43px;
+    opacity: 0.7;
+}
+.manu-icon div {
+    width: 10px;
+    height: 1.1px;
+    background-color: white;
+    margin: 2px 0px;
+}
+
+.background {
+    text-align: center;
+    height: 400px;
+    background-image: url(wall.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.background div {
+    padding-top: 180px;
+    color: white;
+}
+.background div :first-child {
+    letter-spacing: 2.5px;
+    margin: 0;
+    font-size: 42px;
+    font-weight: lighter;
+}
+.background div :last-child {
+    padding: 0 635px;
+    font-size: 17px;
+    opacity: 0.8;
+    line-height: 1.5;
+}
+img:hover {
+    cursor: pointer;
+}
+.next {
+    text-align: center;
+    margin-top: 80px;
+}
+.next :first-child {
+    font-size: 27px;
+}
+.next :last-child {
+    margin-top: 20px;
+    font-size: 12px;
+}
+.icons {
+    text-align: center;
+    padding: 0 300px;
+}
+.icons div {
+    vertical-align: top;
+    position: relative;
+    display: inline-block;
+    align-items: center;
+    margin: 20px;
+    height: 300px;
+    width: 270px;
+    background-color: white;
+}
+
+.icons img {
+    position: relative;
+    top: 65px;
+    width: 62px;
+}
+.icons p {
+    opacity: 0.7;
+}
+.topp {
+    font-size: 15px;
+    margin-top: 90px;
+}
+
+.bottom {
+    line-height: 1.5;
+    padding: 8px 40px;
+    font-size: 12px;
+}
+
+.down {
+    margin-top: 60px;
+    height: 300px;
+}
+.down div {
+    padding-top: 100px;
+}
+.down div :first-child {
+    font-size: 33px;
+    padding: 0 0;
+    margin: 0;
+}
+.down div :last-child {
+    padding: 15px 500px;
+    font-size: 12px;
+}
+
+.down {
+    background-image: url(building-glass.png);
+}
+
+.second div {
+    position: relative;
+    height: 250px;
+}
+
+.second div .line {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 10px;
+    height: 130px;
+    background-color: lightgray;
+}
+
+.comment {
+    font-size: 14px;
+    text-align: left;
+    padding: 40px 50px 0 70px;
+    font-style: italic;
+}
+
+.last {
+    height: 300px;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
